@@ -1,0 +1,26 @@
+h1{
+    color: rgb(160, 143, 89);
+    
+
+}
+
+
+.header{
+    background-color: aquamarine;
+    display:flex;
+    justify-content:space-between;
+
+}
+.origami{
+
+    color: blueviolet;
+
+
+}
+.menu a{
+    color: rgb(8, 32, 138);
+    margin-left: 20px;
+    background-color: wheat;
+    
+    }
+
